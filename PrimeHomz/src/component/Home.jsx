@@ -5,10 +5,10 @@ const Home = () => {
   return (
     <div className="pt-23">
       {/* Background Section */}
-      <div className="h-[95vh] w-[95vw] mx-[2vw] rounded-2xl bg-[url(/home.png)] bg-cover bg-no-repeat bg-[center_42%] pl-14 pt-35">
+      <div className="h-[95vh] w-[95vw] mx-[2vw] rounded-2xl bg-[url(/home.png)] bg-cover bg-no-repeat bg-[center_42%] pt-35"> 
         
         {/* Content Block */}
-        <div className="h-[50vh] w-[48vw] space-y-4">
+        <div className="h-[50vh] w-[48vw] space-y-4 ml-14">
           
           {/* Badge */}
           <p className="uppercase px-3 py-1 bg-white/20 backdrop-blur-xs w-[13vw] rounded-3xl border border-white text-white">
@@ -59,6 +59,9 @@ const Home = () => {
             </h1>
           </div>
         </div>
+
+      
+
       </div>
     </div>
   )

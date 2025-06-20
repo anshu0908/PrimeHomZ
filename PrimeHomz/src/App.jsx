@@ -5,6 +5,7 @@ import Listing from './component/Listing'
 import Articles from './component/Articles'
 import Footer from './component/Footer'
 import Remarkable from './component/remarkable'
+import { Contact } from 'lucide-react'
 const App = () => {
   return (
     <div>
@@ -13,7 +14,9 @@ const App = () => {
       <Remarkable/>
       <Listing/>
       <Articles/>
+      <Contact/>
       <Footer/>
+
     </div>
   )
 }
