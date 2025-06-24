@@ -1,8 +1,9 @@
-import React from 'react'
 
 const Blogs = () => {
   return (
-    <div>Blogs</div>
+    <div className='h-screen w-screen bg-blue-200'>
+      
+    </div>
   )
 }
 

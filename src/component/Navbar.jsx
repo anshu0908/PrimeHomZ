@@ -1,5 +1,4 @@
-import React from 'react'
-import { IoIosMenu } from "react-icons/io";
+
 import { Link } from 'react-router-dom';
 
 const Navbar = () => {
@@ -12,10 +11,10 @@ const Navbar = () => {
 
         <div className='flex justify-end items-center h-full w-fit text-lg font-medium gap-x-12 px-9'> 
           <Link to="#">Properties</Link>
-          <Link to="#">Services</Link>
-          <Link to="#">About us</Link>
-          <Link to="#">Contact us</Link>
-          <Link to="#">Blog</Link>
+          <Link to="/services">Services</Link>
+          <Link to="/aboutus">About us</Link>
+          <Link to="/contactus">Contact us</Link>
+          <Link to="/blog">Blog</Link>
         </div>
 
         </div>
