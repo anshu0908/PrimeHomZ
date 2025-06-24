@@ -3,8 +3,20 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Coral+Pixels&family=Roboto:ital,wght@0,100..900;1,100..900&family=WindSong:wght@400;500&display=swap');
 
+
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=WindSong:wght@400;500&display=swap');
+
+
 @import url('https://fonts.googleapis.com/css2?family=Coral+Pixels&family=Geist:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=WindSong:wght@400;500&display=swap');
 @import "tailwindcss";
+
 
 body{
   background-color:#F5F6F1;
@@ -15,7 +27,7 @@ body{
 
 .logo{
   padding: 1vw;
-  margin-left: 2vw;
+  /* margin-left: 2vw; */
 }
 
 img{
@@ -26,3 +38,7 @@ img{
 .font-span{
   font-family: "windsong" ;
 }
+<<<<<<< HEAD:src/index.css
+=======
+
+>>>>>>> 004bad221f1ceae06d1dca7a2989c7621aa1801f:PrimeHomz/src/index.css
