@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { FaArrowLeft } from "react-icons/fa";
 import { FaArrowRight } from "react-icons/fa";
 import { IoBedOutline } from "react-icons/io5";
