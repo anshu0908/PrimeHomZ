@@ -6,12 +6,13 @@ import Articles from './Articles'
 import Blog from './Blog'
 import About from './About'
 import Remarkable from './remarkable'
+import Contact from './Contact'
 
 const Home = () => {
   return (
     <div className="pt-23">
       {/* Background Section */}
-      <div className="h-[95vh] w-[95vw] mx-[2vw] bg-gray-600 rounded-2xl bg-[url(https://cdn.prod.website-files.com/6814fd6e7e1d7b88832c570c/681f30291cb42df385279ff2_property02.webp)] bg-cover bg-no-repeat bg-[center_42%] pt-35"> 
+      <div className="h-[99vh] w-[95vw] mx-[2vw] bg-gray-600 rounded-2xl bg-[url(https://cdn.prod.website-files.com/6814fd6e7e1d7b88832c570c/681f30291cb42df385279ff2_property02.webp)] bg-cover bg-no-repeat bg-[center_42%] pt-35"> 
         
         {/* Content Block */}
         <div className="h-[50vh] w-[48vw] space-y-4 ml-14">
@@ -74,6 +75,7 @@ const Home = () => {
       <Blog/>
       <About/>
       <Remarkable/>
+      <Contact/>
       
     </div>
   )
