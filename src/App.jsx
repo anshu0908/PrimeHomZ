@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Navbar from './component/Navbar'
 import Home from './component/Home'
 import Footer from './component/Footer'
@@ -8,8 +8,8 @@ import ScrollToTop from './component/ScrollToTop'
 import Properties from './pages/Properties'
 import AboutUs from './pages/AboutUs'
 import ContactUs from './pages/ContactUs'
-import Services from './pages/Services'
 import Blogs from './pages/Blogs'
+import Services from './pages/Services'
 
 const App = () => {
   return (
