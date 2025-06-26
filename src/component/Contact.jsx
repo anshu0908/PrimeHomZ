@@ -24,8 +24,8 @@ export default function Contact() {
               <div className="space-y-4">
                 <h2 className="text-xl font-medium">Contact info</h2>
                 <div className="space-y-2">
-                  <p className="text-lg font-light">+001 800 600 00</p>
-                  <p className="text-lg font-light">hello@decolorado.com</p>
+                  <p className="text-lg font-light">+91 89205 94962</p>
+                  <p className="text-lg font-light">info@primehomz.com</p>
                 </div>
               </div>
 
@@ -33,8 +33,8 @@ export default function Contact() {
               <div className="space-y-4">
                 <h2 className="text-xl font-medium">Address</h2>
                 <div className="space-y-1">
-                  <p className="text-lg font-light">245 Maple Avenue</p>
-                  <p className="text-lg font-light">Springfield, IL 62704</p>
+                  <p className="text-lg font-light">245 New Colony</p>
+                  <p className="text-lg font-light">Gurgaon,Harayana</p>
                 </div>
               </div>
             </div>
