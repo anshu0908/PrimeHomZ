@@ -37,12 +37,5 @@ const Remarkable = () => {
   )
 }
 
-export default Remarkable
+export default Remarkable;
 
-
-
-
-
-=======
-export default Remarkable
->>>>>>> 004bad221f1ceae06d1dca7a2989c7621aa1801f:PrimeHomz/src/component/remarkable.jsx

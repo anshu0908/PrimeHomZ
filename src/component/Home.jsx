@@ -72,7 +72,7 @@ const Home = () => {
       <Articles />
       <Contact />
       <About />
-      <Remarkable />
+      {/* <Remarkable /> */}
     </div>
   )
 }
